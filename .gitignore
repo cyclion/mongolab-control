@@ -1,0 +1,16 @@
+## folders
+.tmp
+.idea
+deployment
+node_modules
+app/maps
+bower_components
+## files
+*.log
+npm-debug.log
+index.html
+*.css
+!app/vendor/**/*.css
+coverage
+ng-docs
+ReleaseNotes.html

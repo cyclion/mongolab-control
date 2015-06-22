@@ -15,7 +15,7 @@ angular.module('mongolab-factory', [
 
 }).constant('mongolabConfigs',  {
     mongolabUrl: 'https://api.mongolab.com/api/1/databases',
-    collection: 'test-collection2',
+    collection: 'test-collection',
     dataBase: null,
     apiKey: null
 });
